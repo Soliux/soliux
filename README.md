@@ -44,17 +44,6 @@ I believe in the power of continuous learning and the importance of understandin
 
 </div>
 
-### 🤝 Let's Connect
-
-Feel free to reach out if you want to collaborate on projects or just chat about technology!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/yourprofile)
-
-</div>
-
 ---
 <div align="center">
   <i>⚡ Keep exploring, keep breaking, keep building! ⚡</i>
